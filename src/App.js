@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Prueba de React con Gh Pages!
+          App de react con Gh-Pages 2021!
         </a>
       </header>
     </div>
